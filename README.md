@@ -26,25 +26,35 @@ This is a simple and interactive JavaScript-based tool that simulates rolling mu
 ## 📁 Project Structure
 
 Dice-Roller/ (github repo)
-├── index.html 
-├── Dice-roller.css 
+
+├── index.html
+
+├── Dice-roller.css
+
 ├── Dice-roller.js
+
 └── Dice-images/ 
+
      ├── 1.png 
+     
      ├── 2.png 
+     
      ├── 3.png
-     ├── 4.png 
+     
+     ├── 4.png
+     
      ├── 5.png 
+     
      └── 6.png
 
 
 ## 🛠️ Technologies Used
 
-# HTML
+ ### HTML
 
-# CSS
+ ### CSS
 
-# JavaScript
+ ### JavaScript
 
 ---
 
@@ -55,5 +65,6 @@ If you liked this project, feel free to ⭐ star the repo or give your suggestio
 
 ## 📌 Author
 Thota Priya Harshitha
+
 🧑‍💻 Linked-In: 
 
