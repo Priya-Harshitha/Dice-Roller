@@ -10,7 +10,11 @@ This is a simple and interactive JavaScript-based tool that simulates rolling mu
 
 ## 📸 Preview
 
+![Main Page](https://github.com/Priya-Harshitha/Dice-Roller/issues/1#issuecomment-3095192622)
 
+![Preview-image](https://github.com/Priya-Harshitha/Dice-Roller/issues/1#issuecomment-3095192321)
+
+![Dice Roller Preview](https://github.com/Priya-Harshitha/Dice-Roller/issues/1#issue-3247165497))
 
 ---
 
@@ -66,5 +70,5 @@ If you liked this project, feel free to ⭐ star the repo or give your suggestio
 ## 📌 Author
 Thota Priya Harshitha
 
-🧑‍💻 Linked-In: 
+🧑‍💻 Linked-In: https://www.linkedin.com/in/priya-harshitha-991b87280/
 
