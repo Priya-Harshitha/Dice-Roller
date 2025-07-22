@@ -9,12 +9,10 @@ This is a simple and interactive JavaScript-based tool that simulates rolling mu
 ---
 
 ## 📸 Preview
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/6f66f27a-625c-4d13-af08-554ac8ff16cf" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/18011126-ca9e-4be5-8752-056e96f859ab" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/88611f49-b64f-4dd3-8040-c54db23cee79" />
 
-![Main Page](https://github.com/Priya-Harshitha/Dice-Roller/issues/1#issuecomment-3095192622)
-
-![Preview-image](https://github.com/Priya-Harshitha/Dice-Roller/issues/1#issuecomment-3095192321)
-
-![Dice Roller Preview](https://github.com/Priya-Harshitha/Dice-Roller/issues/1#issue-3247165497))
 
 ---
 
